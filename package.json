@@ -9,8 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelps10/resolucoes-exercicios-backend-typescript-tipos-dados.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafaelps10/resolucoes-exercicios-backend-typescript-tipos-dados/issues"
+  },
+  "homepage": "https://github.com/rafaelps10/resolucoes-exercicios-backend-typescript-tipos-dados#readme",
   "dependencies": {
-    "ts-node": "^10.5.0",
-    "typescript": "^4.5.5"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
   }
 }
